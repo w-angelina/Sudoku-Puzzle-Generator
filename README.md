@@ -1,4 +1,4 @@
-# Project-Sudoku-Puzzle-Generator-50-points-Angelina-Wang
+# Sudoku-Puzzle-Generator
 
 Project Description:
 In this project, the main objective is to design a Java program that generates a solved Sudoku puzzle and print it in a neat, readable format. In Sudoku, each solved 9x9 puzzle must contain the numbers 1-9 only once in each row, column, and 3x3 box. The Java program must have at least one 2D array, which represents the Sudoku board, as well as at least one ArrayList, which must be used in a meaningful way. 
